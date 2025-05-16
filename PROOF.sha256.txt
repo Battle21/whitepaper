@@ -1,0 +1,6 @@
+SHA-256 checksums · Battle 21 v1.0 (16 May 2025)
+
+5cca606d2f600180041682ab48e6f3497d7184e7fb37c7a64236f2118f29e55d  Battle21_Whitepaper_v1.0_2025-05-16.pdf
+57fd54e65a49d718bb73bcbd3e6416de6a5fc950432805cdfdc07fb31d636df8  Battle21_Additional_Game_Mechanics_v1.0_2025-05-16.pdf
+
+Provisional Patent US 63/804650 (filed 13 Mar 2025)
